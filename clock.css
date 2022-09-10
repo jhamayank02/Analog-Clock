@@ -10,6 +10,10 @@ body{
     background-color: black;
 }
 
+.box{
+    padding: 10px;
+}
+
 .outerCircle{
     background-color: white;
     height: 70vh;
@@ -170,13 +174,7 @@ body{
 }
 
 .date{
-    height: fit-content;
-    width: fit-content;
-    position: absolute;
-    top: 73%;
     font-size: 20px;
-    left: 34.2%;
-    border-radius: 6px;
-    font-family: 'Kanit', sans-serif;
     color: white;
+    margin: 70%auto;
 }
